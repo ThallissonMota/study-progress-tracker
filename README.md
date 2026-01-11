@@ -49,11 +49,13 @@ Os dados não representam um acompanhamento real de cursos ou prazos.
 
 ## 🗂 Estrutura do projeto
 ```text
-src/
-├── resumo_tarefas.py
-├── curso_front_end.py
-├── curso_sql.py
-├── separadores.py
-└── main.py
-README.md
+study-progress-tracker/
+├── src/
+│   ├── resumo_tarefas.py
+│   ├── curso_front_end.py
+│   ├── curso_sql.py
+│   ├── separadores.py
+│   └── main.py
+├── README.md
+
 
