@@ -52,9 +52,8 @@ Essa planilha serviu como base para simular o avanço diário e semanal dos estu
 
 ## 📎 Material auxiliar
 
-O projeto conta com uma planilha auxiliar localizada na pasta `docs/`,
-utilizada como base para a contagem de dias (01 a 365) e organização
-do acompanhamento anual dos estudos.
+O projeto conta com uma planilha localizada na pasta `docs/`, utilizada como base
+para a contagem de dias (01 a 365) e organização do acompanhamento anual dos estudos.
 
 ---
 
