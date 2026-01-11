@@ -1,4 +1,4 @@
-# 📊 Acompanhamento de Estudos em Python
+# 📊 Study Progress Tracker
 
 Este projeto foi desenvolvido com o objetivo de acompanhar meu progresso semanal de estudos e cursos, utilizando Python para organização de informações, cálculos de desempenho e geração de relatórios diretamente no terminal.
 
@@ -46,7 +46,15 @@ A ideia principal é aplicar conceitos fundamentais da linguagem Python em um co
 
 - Enumeração completa dos dias, do dia 01 ao dia 365
 
-- Essa planilha serviu como base para simular o avanço diário e semanal dos estudos, garantindo maior consistência nos cálculos de progresso e estimativas de conclusão.
+Essa planilha serviu como base para simular o avanço diário e semanal dos estudos, garantindo maior consistência nos cálculos de progresso e estimativas de conclusão.
+
+---
+
+## 📎 Material auxiliar
+
+O projeto conta com uma planilha auxiliar localizada na pasta `docs/`,
+utilizada como base para a contagem de dias (01 a 365) e organização
+do acompanhamento anual dos estudos.
 
 ---
 
@@ -66,6 +74,9 @@ study-progress-tracker/
 │   ├── curso_sql.py
 │   ├── separadores.py
 │   └── main.py
+├── docs/
+│   └── controle_dias_estudos_2026.xlsx
 ├── README.md
+
 
 
