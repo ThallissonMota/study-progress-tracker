@@ -4,6 +4,8 @@ Este projeto foi desenvolvido com o objetivo de acompanhar meu progresso semanal
 
 A ideia principal é aplicar conceitos fundamentais da linguagem Python em um contexto prático, simulando um sistema simples de controle de metas e evolução nos estudos.
 
+---
+
 ## 🚀 Funcionalidades
 
 - Resumo semanal de tarefas e atividades
@@ -17,6 +19,8 @@ A ideia principal é aplicar conceitos fundamentais da linguagem Python em um co
 - Avaliação automática de metas atingidas
 
 - Estrutura modular e organizada
+
+---
 
 ## 🧠 Conceitos aplicados
 
@@ -32,20 +36,26 @@ A ideia principal é aplicar conceitos fundamentais da linguagem Python em um co
 
 - Código limpo e legível
 
+---
+
 ## 📅 Controle de dias e progresso
 
-Para garantir um acompanhamento correto dos dias, foi utilizada uma planilha auxiliar, contendo:
+### Para garantir um acompanhamento correto dos dias, foi utilizada uma planilha auxiliar, contendo:
 
-Todos os meses do ano
+- Todos os meses do ano
 
-Enumeração completa dos dias, do dia 01 ao dia 365
+- Enumeração completa dos dias, do dia 01 ao dia 365
 
-Essa planilha serviu como base para simular o avanço diário e semanal dos estudos, garantindo maior consistência nos cálculos de progresso e estimativas de conclusão.
+- Essa planilha serviu como base para simular o avanço diário e semanal dos estudos, garantindo maior consistência nos cálculos de progresso e estimativas de conclusão.
+
+---
 
 ## ⚠️ Observação importante
 
 Os valores utilizados nos programas são fictícios, tendo como objetivo apenas gerar conteúdo, simular cenários reais e permitir a aplicação prática da lógica de programação.
 Os dados não representam um acompanhamento real de cursos ou prazos.
+
+---
 
 ## 🗂 Estrutura do projeto
 ```text
